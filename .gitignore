@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Credenciais
+.env
+*.key
+# Base limpa gerada pelo notebook (é recriada ao executar)
+dados/*.parquet
